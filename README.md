@@ -3,7 +3,8 @@
 > **本計畫使用 AMB82-mini 晶片**（Realtek RTL8735B）
 
 ![](assets/product.png)
-<!-- 成品示意圖：請用下方「Prompts」段落的提示詞以 AI 生成後放到 assets/product.png -->
+
+**組員**：電機4A 01253036 葉安哲、電機4B 01253136 李吉麒
 
 以原曲片段為基準，**即時評分**使用者的電吉他音色（0–100 分），再由 **LLM agent** 給出效果器／音箱旋鈕的具體調整指令。評分在 AMB82-mini 板端完成，不需要連網；AI 建議才走雲端，斷網時自動改用內建規則引擎。
 
@@ -132,16 +133,10 @@ guitar-tone-demo/
 
 ---
 
-## Prompts
+## AI 工具使用說明
 
-成品示意圖（AI 生成用）：
-```
-A product photo of a compact guitar tone meter device placed on a pedalboard floor
-next to an overdrive pedal: a small black enclosure containing an AMB82-mini dev board
-and a PCM1808 audio module, a 1/4-inch guitar cable plugged in, a smartphone beside it
-showing a large green score "97" and a button "問 AI 教練", warm stage lighting,
-realistic, clean background
-```
+- 成品示意圖由 AI（Claude）生成，為概念示意，非實機照片。
+- README.md 與 PROPOSAL.md 由 AI（Claude）依專案程式與實驗結果協助整理。
 
 ---
 
