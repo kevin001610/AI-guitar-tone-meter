@@ -133,11 +133,4 @@ guitar-tone-demo/
 
 ---
 
-## AI 工具使用說明
-
-- 成品示意圖由 AI（Claude）生成，為概念示意，非實機照片。
-- README.md 與 PROPOSAL.md 由 AI（Claude）依專案程式與實驗結果協助整理。
-
----
-
 ## [PROPOSAL.md](PROPOSAL.md)
